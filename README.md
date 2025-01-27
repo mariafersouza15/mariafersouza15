@@ -1,6 +1,6 @@
 ### Olá, me chamo Maria 👋
 - Sou estudante de Sistemas de Informação👩‍💻
-- Tenho 20 anos 
+- Tenho 21 anos 
 - Desenvolvedora Front-end
 
 ### Contato:
